@@ -1,5 +1,5 @@
 # interface-exercicio
-Aprendendo um pouco sobre Inversão de valores e Injeção de dependências.
+Aprendendo um pouco sobre Inversão de controles e Injeção de dependências.
 
 - Exercício proposto do Curso Completo Orietado a Objetos, Nélio Alves
 
